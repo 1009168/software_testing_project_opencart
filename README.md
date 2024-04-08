@@ -8,6 +8,7 @@ Test cases and Test plan for **opencart**
 
    ![image](https://github.com/1009168/software_testing_project_opencart/assets/114450573/961ef7c5-8666-4c7c-bf2a-72b7a4c68fcb)
    
-Project List
-Project Name:	Description	Tools Used
+
+Project Name:	Opencart
+
 Project 1:	Tested a web application for functionality and usability. ||	Test Plan, Testcases
